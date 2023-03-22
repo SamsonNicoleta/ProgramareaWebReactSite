@@ -14,14 +14,14 @@ const Article = ({imagePath, title}) => {
                 </h2>
                 <img src={"./Beans-logo-dark.svg"} alt="Logo" />
                 <p>
-                    Extremity sweetness difficult behaviour he of. On disposal of as landlord horrible.
+                    Extremitatea dulceață comportament dificil el de. La eliminarea ca proprietar oribil.
                 </p>
                 <p>
-                    Afraid at highly months do things on at. Situation recommend objection do intention
-                    so questions.
-                    As greatly removed calling pleased improve an. Last ask him cold feel
-                    met spot shy want. Children me laughing we prospect answered followed. At it went
-                    is song that held help face.
+                    Mi-e frică în lunile înalte să faci lucruri pe la. Situația recomandă obiecție face intenție
+                    deci intrebari.
+                    Așa cum foarte îndepărtat apelarea mulțumit îmbunătăți an. Ultimul intreaba-l simt rece
+                    intalnit loc timid vrea. Copii eu râzând noi perspective răspuns răspuns urmat. La ea a mers
+                    este un cântec care a ținut ajutor față.
                 </p>
             </div>
         </article>

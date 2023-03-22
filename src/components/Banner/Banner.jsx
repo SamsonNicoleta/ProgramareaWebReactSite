@@ -11,8 +11,8 @@ const Banner = ({link}) => {
                     Everything You Love About Coffee
                 </h1>
                 <img src={"Beans-logo.svg"} alt="logo"/>
-                <h2 className="container-sub-title">We makes every day full of energy and taste</h2>
-                <h2 className="container-sub-title">Want to try our beans?</h2>
+                <h2 className="container-sub-title">Facem fiecare zi plină de energie și gust</h2>
+                <h2 className="container-sub-title">Vrei să încerci boabele noastră?</h2>
                 <NavLink to={link}>
                     <button className="more-btn btn-pos">
                         More

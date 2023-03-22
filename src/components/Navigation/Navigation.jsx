@@ -39,7 +39,7 @@ class Navigation extends Component {
                                 </li>
                                 <li className="menuItem">
                                     <NavLink to="/forYourPleasure" className="nav-item">
-                                        For your pleasure
+                                        Pentru placerea ta
                                     </NavLink>
                                 </li>
                             </ul>
